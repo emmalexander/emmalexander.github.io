@@ -65056,7 +65056,7 @@ p=$.a5X
 p.toString
 return A.bP(o,A.il(B.b3,A.a([j,A.bP(o,A.cN(A.a([g,f,s,r,new A.eU(q,B.aM,B.b7,B.th,o),p,B.kB],h),B.aJ,B.o,B.r),o,o,o,new A.aM(i*30*0.77+30,i*80*0.77+80,0,0),o,o)],h),B.bt),o,o,l*1.025,o,k,o)}}
 A.EQ.prototype={
-D(a){var s,r,q,p,o,n,m=null,l="Montserrat",k=a.K(t.w).f,j=$.b8,i=A.pH(0,A.G6(A.eX("assets/photos/black-white.png",m,j*150*0.77+150),0.9),m,m,m,-(j*25*0.77+25),m,m),h=A.bi("HEY THERE! ",$.oc.ig(l),m,m),g=$.qf
+D(a){var s,r,q,p,o,n,m=null,l="Montserrat",k=a.K(t.w).f,j=$.b8,i=A.pH(0,A.G6(A.eX("assets/photos/black-white.png",m,j*150*0.77+150),0.9),m,m,m,-(j*-35*0.77+-35),m,m),h=A.bi("HEY THERE! ",$.oc.ig(l),m,m),g=$.qf
 g.toString
 s=t.p
 g=A.cy(A.a([h,g,A.eX("assets/hi.gif",m,$.b8*10*0.77+10)],s),B.o,B.aQ)
