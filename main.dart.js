@@ -19560,7 +19560,7 @@ acC:function acC(a){this.a=a},
 Oe:function Oe(a,b){this.c=a
 this.a=b},
 acA:function acA(a){this.a=a},
-acz:function acz(a){this.a=a},
+acz:function acz(){},
 acw:function acw(a){this.a=a},
 acx:function acx(){},
 acy:function acy(){},
@@ -65347,10 +65347,10 @@ A.acA.prototype={
 $0(){var s,r=this.a,q=A.pv(r,!0).c
 q.toString
 s=A.asX(r,q)
-return A.pv(r,!0).un(A.arQ(null,B.x,!0,null,new A.acz(r),r,null,s,!0,t.z))},
+return A.pv(r,!0).un(A.arQ(null,B.x,!0,null,new A.acz(),r,null,s,!0,t.z))},
 $S:0}
 A.acz.prototype={
-$1(a){var s,r,q,p=null,o=A.bi("Hire Me!",$.rY,p,p),n=t.p,m=A.a([new A.IT(new A.acw(this.a),p,p,p,p,B.w,p,!1,p,B.LO,p)],n),l=$.qf
+$1(a){var s,r,q,p=null,o=A.bi("Hire Me!",$.rY,p,p),n=t.p,m=A.a([new A.IT(new A.acw(a),p,p,p,p,B.w,p,!1,p,B.LO,p)],n),l=$.qf
 l.toString
 l=A.pl(A.cy(A.a([B.AA,l,A.bi("WhatsApp",$.fb.d2(B.i),p,p)],n),B.o,B.aQ),B.yU,40,p,p,new A.acx(),p,p)
 s=$.fx
@@ -65365,10 +65365,10 @@ $0(){A.pv(this.a,!1).Af(null)
 return null},
 $S:0}
 A.acx.prototype={
-$0(){return A.iS(A.e6("https://api.whatsapp.com/send?phone=923460159889",0,null))},
+$0(){return A.iS(A.e6("https://api.whatsapp.com/send?phone=2349031887457",0,null))},
 $S:0}
 A.acy.prototype={
-$0(){return A.iS(A.e6("https://www.upwork.com/freelancers/~0197b0f6aaeba9675f",0,null))},
+$0(){return A.iS(A.e6("https://www.upwork.com/freelancers/~01687e17502613651d",0,null))},
 $S:0}
 A.lA.prototype={
 D(a){var s,r=null,q=A.ei(a,!0,t.Q),p=$.rZ
